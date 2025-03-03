@@ -1,0 +1,17 @@
+Top 5 Cryptocurrencies by Market Cap:
+    Name  Market Cap (USD)
+ Bitcoin     1823630466276
+Ethereum      286754473104
+     XRP      155588611524
+  Tether      142377999153
+     BNB       87819326928
+
+Average Price of Top 50 Cryptocurrencies: $5802.92
+
+Highest 24h Price Change:
+   Name  24h Price Change (%)
+Cardano              51.99452
+
+Lowest 24h Price Change:
+    Name  24h Price Change (%)
+Litecoin              -3.55396
